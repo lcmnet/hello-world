@@ -1,0 +1,3 @@
+http://hla-agent-service-service-app.apps.projects.agentmicroservices.com/hla-agent-service/v1/agents/login 
+
+http://hla-agent-service-service-app.apps.projects.agentmicroservices.com/hla-agent-service/v1/agents/
